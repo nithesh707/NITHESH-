@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Helvetica", "Helvetica Neue", "Arial", sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+

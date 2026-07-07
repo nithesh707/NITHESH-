@@ -1,0 +1,6 @@
+{
+  "name": "T7 Fitness",
+  "description": "A high-conversion single-page website for T7 Fitness men's physique gym, featuring a bold high-performance design, interactive stat counters, programs, pricing tables, a responsive transformation gallery, and WhatsApp integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
